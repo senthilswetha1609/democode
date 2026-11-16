@@ -1,4 +1,1 @@
-create database student (
-studentid int auto_increment primary key .
-student name varchar (20).
-)
+sbhcjjhcg hcbhfh cbgghdiugd ugfcuhec cvggdchu cgsftxcgj   cgdfxcthuc
